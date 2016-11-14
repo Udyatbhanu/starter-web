@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work, this is a test.
 
-Added second line
+Added second line another one
 
 ## Purpose
 
